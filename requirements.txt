@@ -2,4 +2,3 @@ streamlit
 networkx
 matplotlib
 Pillow
-tempfile
