@@ -3,7 +3,7 @@ import streamlit as st
 import networkx as nx
 import matplotlib.pyplot as plt
 from PIL import Image
-
+import tempfile
 # Define the city map as a graph
 city_map = nx.Graph()
 # Add locations (vertices)
